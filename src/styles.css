@@ -1,0 +1,23 @@
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0.5% auto;
+  color: rgb(75, 75, 75);
+}
+
+.FormItem {
+  margin: 2%;
+  width: 45%;
+  text-align: center;
+}
+
+.submit {
+  width: 30%;
+  margin: 4% 20%;
+}
